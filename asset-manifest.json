@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.de654a9d.chunk.css",
+    "main.js": "/static/js/main.918451ba.chunk.js",
+    "main.js.map": "/static/js/main.918451ba.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.406dd86f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.406dd86f.js.map",
+    "static/css/2.c8718ffa.chunk.css": "/static/css/2.c8718ffa.chunk.css",
+    "static/js/2.ba52e06a.chunk.js": "/static/js/2.ba52e06a.chunk.js",
+    "static/js/2.ba52e06a.chunk.js.map": "/static/js/2.ba52e06a.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.c8718ffa.chunk.css.map": "/static/css/2.c8718ffa.chunk.css.map",
+    "static/css/main.de654a9d.chunk.css.map": "/static/css/main.de654a9d.chunk.css.map",
+    "static/js/2.ba52e06a.chunk.js.LICENSE.txt": "/static/js/2.ba52e06a.chunk.js.LICENSE.txt",
+    "static/media/Filter_button.css": "/static/media/angle-up-solid.3b29ffc9.svg",
+    "static/media/one.2fc655f9.png": "/static/media/one.2fc655f9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.406dd86f.js",
+    "static/css/2.c8718ffa.chunk.css",
+    "static/js/2.ba52e06a.chunk.js",
+    "static/css/main.de654a9d.chunk.css",
+    "static/js/main.918451ba.chunk.js"
+  ]
+}
